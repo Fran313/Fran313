@@ -1,5 +1,3 @@
 ## Hey! 👋
 
-I’m a versatile developer with strong analytical skills and a detail-oriented mindset, passionate about solving complex challenges and building impactful systems.  
-
-👨🏻‍💻Currently working at [Glic Solutions](https://glic-solutions.com), where I focus on delivering scalable and high-performance software solutions.
+👨🏻‍💻 I'm a committed developer and computer science student, currently working as a Software Engineer at Glic Solutions while pursuing my degree at Universidad ORT Uruguay.
